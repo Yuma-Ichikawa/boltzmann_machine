@@ -1,3 +1,3 @@
-# Boltzmann Machineの実装をします。
+# Boltzmann Machineの実装(Implimantation of Boltzmann Machine)
 
-多くのコードが未完成状態・汚いコードなのでご了承ください。
+まだ、未完成です.
